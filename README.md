@@ -42,9 +42,15 @@
 <div>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="MySQL Logo" height="100px" />
       <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="MongoDB Logo" height="100px" />
-
 </div>
 
+<!--
+### Operating Systems
 
+-Mac OSX
+Windows
+Unix/Linux
+Raspberry pi
+-->
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
 
