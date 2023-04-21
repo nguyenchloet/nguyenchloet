@@ -31,14 +31,18 @@
 ### Text Editors
 <div>
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode Logo" height="75px" />&ensp;
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime Logo" height="75px" />
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime Logo" height="75px" />&ensp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim Logo" height="75px" />
+
+  
 </div>
 
 
 ### Databases
 <div>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="VSCode Logo" height="100px" />
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="Sublime Logo" height="100px" />
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="MySQL Logo" height="100px" />
+      <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="MongoDB Logo" height="100px" />
+
 </div>
 
 
