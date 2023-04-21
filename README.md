@@ -14,11 +14,14 @@
 ## Skills
 ### Version Control
 <div>
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git" height="75px" />
-  <img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg" alt="bitbucket" height="75px" />
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git logo" height="75px" />
+  <img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg" alt="Bitbucket logo" height="75px" />
 </div>
 
-https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg
+### Tools
+  <img src="[https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png
+)" alt="Figma Logo" height="75px" />
+
 
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
 
