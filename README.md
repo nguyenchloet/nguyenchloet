@@ -24,18 +24,26 @@
 
 
 ### Text Editors
+<div>
       <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode Logo" height="75px" />&ensp;
       <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime Logo" height="75px" />&ensp;
       <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" alt="XCode Logo" height="75px" />
+  </div>
 
 ### Tools
+<div>
+
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" alt="Photoshop Logo" height="75px" />&ensp;&ensp;
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" alt="Figma Logo" height="75px" />&ensp;
     <img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/blender_logo.png" alt="Blender Logo" height="75px" />
+  </div>
 
 ### Databases
+<div>
+
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="MySQL Logo" height="100px" />
     <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="MongoDB Logo" height="100px" />
+  </div>
 
 
 
