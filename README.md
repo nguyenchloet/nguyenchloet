@@ -14,7 +14,7 @@
 
 ## Skills
 ### Version Control
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git" />
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git" height="50px/>
 
 
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
