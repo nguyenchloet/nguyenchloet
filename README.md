@@ -14,8 +14,10 @@
 
 ## Skills
 ### Version Control
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git" height="75px" />
-<img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg" alt="bitbucket" height="75px" />
+<div style="display: flex;">
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git" height="75px" />
+  <img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg" alt="bitbucket" height="75px" />
+</div>
 
 https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg
 
