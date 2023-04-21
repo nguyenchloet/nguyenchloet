@@ -1,7 +1,7 @@
 <div>
   <a href="https://profile.codersrank.io/user/nguyenchloet" target="_blank">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nguyenchloet&width=800&skills=HTML,CSS,Java,Javascript,CPP,Python&show-other-skills=true"
-  height=400 />
+  height=450 />
   </a>
 </div>
 <div> 
