@@ -37,8 +37,8 @@
 
 ### Databases
 <div>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="VSCode Logo" height="75px" />
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="Sublime Logo" height="75px" />
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="VSCode Logo" height="100px" />
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="Sublime Logo" height="100px" />
 </div>
 
 
