@@ -16,7 +16,7 @@
 <div>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git logo" height="75px" />
   <img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/Bitbucket-Logo.wine.svg" alt="Bitbucket logo" height="75px" />
-  <img src="https://github.com/nguyenchloet/nuyenchloet/blob/main/jira-atlassian-confluence-agile-software-development.png" alt="Jira logo" height="75px" />
+  <img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/jira-atlassian-confluence-agile-software-development.png" alt="Jira logo" height="75px" />
 </div>
 
 
