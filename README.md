@@ -11,6 +11,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt="github stats" width="500px" />
 </div>
 <br>
-                                                                                                                                                    
+
+## Skills
+### Version Control
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="git" />
+
+
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
 
