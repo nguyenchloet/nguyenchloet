@@ -5,7 +5,8 @@
   </a>
 </div>
 <div> 
-![Chloe's github stats]
+  ![Chloe's github stats](https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=radical)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" height="200px" />
 &ensp;&ensp;
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt="github stats" height="200px" />
