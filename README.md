@@ -4,7 +4,7 @@
   height=425 />
   </a>
 </div>
-<div> 
+<div style="display: flex; justify-content: space-between;"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" height="200px" />
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt=github stats" height="200px" />
 </div>
