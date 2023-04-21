@@ -11,10 +11,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt="github stats" height="200px" />
 </div>
 <br>
-      
-      
-![Chloe's github stats](https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=radical)
-
                                                                                                                                                     
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
 
