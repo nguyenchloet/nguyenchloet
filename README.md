@@ -5,9 +5,9 @@
   </a>
 </div>
 <div> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" width="40%" height="400px"/>
 &ensp;&ensp;
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt=github stats" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt=github stats" width="40%" height="400px"/>
 </div>
 <br>
                                                                                                                                                     
