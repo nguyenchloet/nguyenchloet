@@ -5,7 +5,6 @@
   </a>
 </div>
 <div> 
-  ![Chloe's github stats](https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" height="200px" />
 &ensp;&ensp;
@@ -14,6 +13,7 @@
 <br>
       
       
+![Chloe's github stats](https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=radical)
 
                                                                                                                                                     
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
