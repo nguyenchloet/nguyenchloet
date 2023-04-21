@@ -9,7 +9,6 @@
 &ensp;&ensp;
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt=github stats" height="200px" />
 </div>
-                                                                                                                                                    
-
+<br><br>
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
 
