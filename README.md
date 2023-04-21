@@ -1,4 +1,4 @@
-## Languages
+<!-- ## Languages -->
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" />
   <a href="https://profile.codersrank.io/user/nguyenchloet" target="_blank">
@@ -9,7 +9,7 @@
 </div>
 
 
-## Github Stats
+<!-- ## Github Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues)
 
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
