@@ -25,8 +25,20 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/photoshop.png" alt="Photoshop Logo" height="75px" />
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/figma.png" alt="Figma Logo" height="75px" />
   <img src="https://github.com/nguyenchloet/nguyenchloet/blob/main/blender_logo.png" alt="Blender Logo" height="75px" />
-
 </div>
+
+### Text Editors
+<div>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode Logo" height="75px" />
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" alt="Sublime Logo" height="75px" />
+</div>
+
+### Databases
+<div>
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="VSCode Logo" height="75px" />
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" alt="Sublime Logo" height="75px" />
+</div>
+
 
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
 
