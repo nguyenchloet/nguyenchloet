@@ -1,3 +1,4 @@
+## Languages
 <div>
   <a href="https://profile.codersrank.io/user/nguyenchloet" target="_blank">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nguyenchloet&skills=HTML,CSS,Java,Javascript,CPP,Python&show-other-skills=true&branding=false" height="400" />
@@ -10,7 +11,7 @@
 </div>
 <br>
 
-## 
+## Skills
 <br>
 
 ![](https://img.shields.io/badge/OS-Mac%20OS-informational?style=flat&logo=macos&logoColor=white&color=blue)
