@@ -4,7 +4,7 @@
   &ensp;&ensp;
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt="github stats" width="350px" />
    <a href="https://profile.codersrank.io/user/nguyenchloet" target="_blank">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nguyenchloet&skills=HTML,CSS,Java,Javascript,CPP,Python&show-other-skills=true&branding=false" height="165" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nguyenchloet&skills=HTML,CSS,Java,Javascript,CPP,Python&show-other-skills=true&branding=false" height="250" />
   </a>
 </div>
 <br>
