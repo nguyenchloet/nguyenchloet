@@ -10,10 +10,6 @@
 </div>
 <br>
 
-Student Graduating with a Bachelor's in Computer Science in Spring '24 
-
-Programmer. Code Coach. Creator. Designer.
-
 ## 
 <br>
 
