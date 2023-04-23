@@ -11,6 +11,8 @@
 </div>
 <br>
 
+<!--
+
 ## Skills
 <br>
 
@@ -19,7 +21,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Computer-Raspberry%20Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=blue)
 
-<!--
+
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
