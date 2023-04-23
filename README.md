@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
--->
+
 
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=purple) ![](https://img.shields.io/badge/Repository-GitHub-informational?style=flat&logo=github&logoColor=white&color=purple) ![](https://img.shields.io/badge/Repository-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=purple) 
 
@@ -54,6 +54,8 @@
 ![](https://img.shields.io/badge/Web-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=CBC3E3)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow)
+
+-->
 
 ## Acknowledgments
 ##### ReadMe Stats https://github.com/anuraghazra/github-readme-stats
