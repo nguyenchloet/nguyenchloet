@@ -59,7 +59,7 @@
 
 ## Acknowledgments
 ##### ReadMe Stats https://github.com/anuraghazra/github-readme-stats
-/* ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet */
+<!-- ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet -->
 
 -->
 
