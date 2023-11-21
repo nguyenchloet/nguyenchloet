@@ -61,4 +61,5 @@
 ##### ReadMe Stats https://github.com/anuraghazra/github-readme-stats
 ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet
  
-![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
+##
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet.visitor-badge&left_text=Visitors)
