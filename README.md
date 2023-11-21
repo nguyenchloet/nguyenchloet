@@ -64,4 +64,4 @@
 ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet
  
 ##
-![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet.visitor-badge&left_text=Visitors)
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.visitor-badge&left_text=Visitors)
