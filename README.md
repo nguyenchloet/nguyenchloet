@@ -57,6 +57,8 @@
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow)
 
+-->
+
 ## Acknowledgments
 ##### ReadMe Stats https://github.com/anuraghazra/github-readme-stats
 ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet
