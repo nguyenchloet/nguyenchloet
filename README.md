@@ -6,7 +6,7 @@
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" height="165px"/>
   &ensp;&ensp;
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt="github stats" width="350px" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt="github stats" width="350px" /> -->
   </a>
 </div>
 <br>
@@ -59,9 +59,7 @@
 
 ## Acknowledgments
 ##### ReadMe Stats https://github.com/anuraghazra/github-readme-stats
-<!-- ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet -->
-
--->
+##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet
 
 ## 
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.nguyenchloet)
