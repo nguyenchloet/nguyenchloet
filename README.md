@@ -1,4 +1,19 @@
-## Languages
+<b> computer science · software · problem solving </b>
+
+Computer science graduate with experience across software and hardware testing, technical operations, troubleshooting, documentation, healthcare technology, quality assurance, regulatory documentation, and programming education.
+
+I enjoy understanding how things work, solving problems, improving processes, and learning new technologies. My interests span software development, testing and automation, and practical applications of technology.
+
+### Skills & Interests
+- Software and hardware testing
+- Programming and debugging
+- JavaScript, Python, C++, HTML, and CSS
+- Git, GitHub, Jira, and Excel
+- Technical documentation and process improvement
+- Troubleshooting and problem solving
+- Technical communication and instruction
+  
+### Languages
 <div>
   <div>
     <!-- <a href="https://profile.codersrank.io/user/nguyenchloet" target="_blank"> 
@@ -9,11 +24,10 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=nguyenchloet&show_icons=true&theme=light&hide=issues" alt="github stats" width="350px" /> -->
   </a>
 </div>
-<br>
 
 <!--
 
-## Skills
+### Skills
 <br>
 
 ![](https://img.shields.io/badge/OS-Mac%20OS-informational?style=flat&logo=macos&logoColor=white&color=blue)
@@ -56,10 +70,9 @@
 ![](https://img.shields.io/badge/Web-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=CBC3E3)
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow)
-
 -->
 
-## Acknowledgments
+### Acknowledgments
 ##### ReadMe Stats https://github.com/anuraghazra/github-readme-stats
 <!-- ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet -->
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.visitor-badge)
