@@ -4,15 +4,16 @@ Computer science graduate with experience across software and hardware testing, 
 
 I enjoy understanding how things work, solving problems, improving processes, and learning new technologies. My interests span software development, testing and automation, and practical applications of technology.
 
-### Skills & Interests
-- Software and hardware testing
-- Programming and debugging
-- JavaScript, Python, C++, HTML, and CSS
-- Git, GitHub, Jira, and Excel
-- Technical documentation and process improvement
-- Troubleshooting and problem solving
-- Technical communication and instruction
-  
+### Skills
+- **Documentation & Process Improvement:** Technical documentation, controlled records, inventory management, workflow improvement
+- **Programming & Web:** JavaScript, HTML, CSS, Python, C++
+- **Testing & QA:** Manual testing, test case design and execution, functional and regression testing, defect tracking, Jira, Xray
+- **Systems & Administration:** Google Workspace administration, Dashlane, account and access management, license tracking
+- **Development & Tools:** Git, GitHub, Firebase, Unity, Excel, Adobe Suite
+- **Hardware & Technical Operations:** Android tablets, VR headsets, hardware testing, troubleshooting, manufacturing and assembly
+- **Procurement & Supply Chain:** Supplier coordination, supplier relationship management, purchasing, receiving, supplies management, shipping, manufacturing and assembly
+- **Healthcare & Regulatory:** Medical devices, quality systems, regulatory documentation, CAPA, complaint handling, UDI labeling, traceability, HIPAA training, ICD-10 and CPT coding familiarity
+
 ### Languages
 <div>
   <div>
