@@ -1,8 +1,8 @@
 ## Languages
 <div>
   <div>
-     <a href="https://profile.codersrank.io/user/nguyenchloet" target="_blank">
-   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nguyenchloet&skills=C,CPP,CSS,HTML,Java,JavaScript,JSON,PHP,Ruby,Shell,Swift,TypeScript&show-other-skills=true&branding=false" width="800" />
+    <!-- <a href="https://profile.codersrank.io/user/nguyenchloet" target="_blank"> 
+   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nguyenchloet&skills=C,CPP,CSS,HTML,Java,JavaScript,JSON,PHP,Ruby,Shell,Swift,TypeScript&show-other-skills=true&branding=false" width="800" /> -->
   </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenchloet&show_icons=true&locale=en&langs_count=8&layout=compact" alt="Top languages" height="165px"/>
   &ensp;&ensp;
@@ -61,5 +61,5 @@
 
 ## Acknowledgments
 ##### ReadMe Stats https://github.com/anuraghazra/github-readme-stats
-##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet
+<!-- ##### Tech Skills Stats https://profile.codersrank.io/user/nguyenchloet -->
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nguyenchloet.visitor-badge)
