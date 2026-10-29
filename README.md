@@ -5,14 +5,15 @@ Computer science graduate with experience across software and hardware testing, 
 I enjoy understanding how things work, solving problems, improving processes, and learning new technologies. My interests span software development, testing and automation, and practical applications of technology.
 
 ### Skills
-- **Documentation & Process Improvement:** Technical documentation, controlled records, inventory management, workflow improvement
-- **Programming & Web:** JavaScript, HTML, CSS, Python, C++
-- **Testing & QA:** Manual testing, test case design and execution, functional and regression testing, defect tracking, Jira, Xray
-- **Systems & Administration:** Google Workspace administration, Dashlane, account and access management, license tracking
-- **Development & Tools:** Git, GitHub, Firebase, Unity, Excel, Adobe Suite
-- **Hardware & Technical Operations:** Android tablets, VR headsets, hardware testing, troubleshooting, manufacturing and assembly
-- **Procurement & Supply Chain:** Supplier coordination, supplier relationship management, purchasing, receiving, supplies management, shipping, manufacturing and assembly
-- **Healthcare & Regulatory:** Medical devices, quality systems, regulatory documentation, CAPA, complaint handling, UDI labeling, traceability, HIPAA training, ICD-10 and CPT coding familiarity
+- **Software Testing & QA:** Manual testing, test case design and execution, functional testing, regression testing, defect tracking and reporting, Jira, Xray Test Management
+- **Programming & Web Development:** JavaScript, Python, C++, HTML, CSS
+- **Quality Systems & Documentation:** Technical documentation, controlled records, SOPs, CAPA, complaint handling, traceability, process improvement
+- **Development Tools & Version Control:** Git, GitHub, Firebase
+- **Systems Administration:** Google Workspace administration, account and access management, license tracking, Dashlane
+- **Hardware & Technical Operations:** Hardware and software testing, troubleshooting, Android tablets, VR headsets, device setup, manufacturing and assembly
+- **Procurement & Operations:** Supplier coordination, purchasing, receiving, inventory management, shipping, supply chain support
+- **Medical Device & Regulatory:** Medical device quality systems, regulatory documentation, UDI labeling, HIPAA training, ICD-10 and CPT coding familiarity
+- **Productivity & Creative Tools:** Microsoft Office Suite, Adobe Suite
 
 ### Languages
 <div>
